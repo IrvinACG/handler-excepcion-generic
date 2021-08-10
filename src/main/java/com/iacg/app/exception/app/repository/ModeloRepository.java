@@ -7,8 +7,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Repository;
 
 import com.iacg.app.exception.app.exception.InvalidDataException;
-import com.iacg.app.exception.app.exception.model.InvalidDataCatalog;
-import com.iacg.app.exception.app.exception.model.LevelException;
+import com.iacg.app.exception.app.exception.catalog.InvalidDataCatalog;
+import com.iacg.app.exception.app.exception.catalog.LevelException;
 import com.iacg.app.exception.app.model.Modelo;
 
 @Repository

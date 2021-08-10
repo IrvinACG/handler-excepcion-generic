@@ -1,4 +1,4 @@
-package com.iacg.app.exception.app.exception.model;
+package com.iacg.app.exception.app.exception.catalog;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
